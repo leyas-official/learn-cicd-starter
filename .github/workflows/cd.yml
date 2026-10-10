@@ -4,7 +4,7 @@ on:
 
 jobs: 
   Deploy:
-    name: deploy to prod
+    name: Deploy
     runs-on: ubuntu-latest
 
     steps:
